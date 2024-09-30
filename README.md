@@ -1,4 +1,4 @@
-# Take Reading Easy iOS App
+# Take It Easy iOS App
 
 <h2> What? </h2>
 
