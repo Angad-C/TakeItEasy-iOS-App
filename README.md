@@ -6,7 +6,9 @@ Take it Easy takes a piece of text and prints it word by word. After printing ea
 
 <h2> Coverage: </h2>
 
-Independent News: [https://www.independentnews.com/news/dublin_news/dublin-highs-angad-chhibber-releases-app-to-help-others-overcome-stuttering-speech-impediments/article_9c808aac-1b6e-11ee-932a-6b7d71cc788c.html]
+Independent News:
+
+[https://www.independentnews.com/news/dublin_news/dublin-highs-angad-chhibber-releases-app-to-help-others-overcome-stuttering-speech-impediments/article_9c808aac-1b6e-11ee-932a-6b7d71cc788c.html]
 
 The program has 3 flavors.
 
