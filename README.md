@@ -30,10 +30,6 @@ I'm working on adding the speech recognition to the web interface. Stay Tuned!
 
 The program listens to the speaker and proceeds after the reader has read the word. The program used Google Speech to Text library to check for read word, and uses fuzzywuzzy library to allow for an approximation of pronunciation - not needing 100% accuracy of speech.
 
-<h2> HOW? </h2>
-
-How I Made a Speech-Driven Slow Reading Program
-
 <h2> WHY? </h2>
 
 Ever since I was very young I have had a mild stutter. I have learnt overtime to control it but it can take effort. The most important thing for me to always remember is to speak slow.
