@@ -26,7 +26,7 @@ I'm working on adding the speech recognition to the web interface. Stay Tuned!
 
 <h2> Python Script: </h2>
 
-[https://github.com/Angad-C/TakeItEasy]
+[https://github.com/Angad-C/TakeItEasy-Python-App]
 
 The program listens to the speaker and proceeds after the reader has read the word. The program used Google Speech to Text library to check for read word, and uses fuzzywuzzy library to allow for an approximation of pronunciation - not needing 100% accuracy of speech.
 
