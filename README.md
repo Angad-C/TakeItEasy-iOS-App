@@ -53,3 +53,9 @@ Because of this I often end up talking really fast. What helps is to be forced t
 I tried to look for some tool or app to assist but what I found were apps to actually help you read faster and faster! 
 
 So I made a tool - to help myself and others like me. Everyone who wants to take it a little slow.
+
+<h2><a href="https://docs.google.com/document/d/1xNYhjecGVpCT4bP0q_9w_f8CUdxNqdYEYsF8Y4fUrO0/edit?usp=sharing" target="_blank"> Documentation</a></h2>
+
+If you like this - also check out http://takeiteasy.angadc.net
+
+My Website: www.angadc.net
